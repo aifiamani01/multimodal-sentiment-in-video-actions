@@ -1,4 +1,4 @@
-# Multimodal Sentiment in Video Action Models
+# Multimodal Emotion Recognition
 
 ## Motivation
 Modern action recognition models achieve high accuracy, but it is unclear whether they encode affective or sentiment-related information.
