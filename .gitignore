@@ -1,0 +1,10 @@
+# Python environment
+mer/
+
+# Dataset and embeddings
+data/raw/
+data/processed/
+
+# Python cache
+*.pyc
+__pycache__/
