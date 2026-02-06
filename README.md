@@ -54,3 +54,7 @@ limitations.md # Known limitations and challenges
 - Initial planning, research questions, and dataset notes documented  
 - Next step: implement embedding extraction for each modality
 
+## First Commit
+Repository setup completed. Ready for experiments.
+
+
